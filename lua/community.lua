@@ -9,5 +9,5 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.tailwindcss" },
-  { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
